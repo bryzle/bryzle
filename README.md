@@ -1,18 +1,60 @@
-## Hi there 👋
+# Hi there 👋, I'm Brandon Lum!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryzle)](https://github.com/anuraghazra/github-readme-stats)
+I'm a **Software Engineer** passionate about **front-end development**, **React Native**, and **AI-driven solutions**. I love building intuitive user interfaces, optimizing workflows, and solving complex problems through code.
 
-<!--
-**bryzle/bryzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
+- 🚀 Building a **React Native app** for [ViperSurf](https://vipersurf.com) to enhance customer experiences.
+- 💎 Developing an **e-commerce platform** for my family jewelry business using React and Stripe.
+- 🌐 Experimenting with **AI and automation** to explore innovative solutions in various domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 What I'm Learning
+- 📖 Mastering **system design concepts** to architect scalable applications.
+- 🧮 Deepening my understanding of **prefix sum** and other algorithmic techniques.
+- ⚡ Enhancing my skills in **AWS deployment** and **security optimizations**.
+
+---
+
+## 💬 Ask Me About
+- React, React Native, and the MERN stack.
+- Leveraging **AWS** for secure and scalable deployments.
+- Managing transitions from finance to tech and bootcamp experiences.
+
+---
+
+## 📫 How to Reach Me
+- 🌐 [Portfolio Website](https://brandonlum.dev) (Coming Soon!)
+- 📧 Email: brandon.lum@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/brandonlum)
+
+
+---
+
+## ⚡ Fun Facts
+- 🎾 I'm an intermediate tennis player with a 4.5 rating and love teaching the sport.
+- ☕ I thrive on coffee and late-night coding sessions.
+
+---
+
+## 📈 GitHub Stats
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryzle&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌟 Featured Projects
+### 🛒 Jewelry E-Commerce Platform
+An elegant and scalable platform for high-end jewelry sales.
+- **Tech Stack**: React, Node.js, Stripe, AWS
+- **Features**: Dynamic product displays, secure payments, responsive design
+
+### 🌊 ViperSurf Mobile App
+A React Native app for streamlined surfboard rentals and purchases.
+- **Tech Stack**: React Native, Firebase, Expo
+- **Features**: User authentication, real-time notifications, map integration
+
+---
+
+### Let's Connect and Build Something Amazing Together!
