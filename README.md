@@ -40,7 +40,7 @@ I'm a **Software Engineer** passionate about **front-end development**, **React 
 ---
 
 ## 📈 GitHub Stats
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryzle&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryzle&show_icons=false&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
