@@ -26,7 +26,7 @@ I'm a **Software Engineer** passionate about **front-end development**, **React 
 ---
 
 ## 📫 How to Reach Me
-- 🌐 [Portfolio Website](https://brandonlum.dev) (Coming Soon!)
+- 🌐 [Portfolio Website](https://bryzle.github.io) 
 - 📧 Email: brandon.lum17@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/brandonlum)
 
